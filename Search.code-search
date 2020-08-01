@@ -1,0 +1,10 @@
+# Query: MyApp
+# ContextLines: 1
+
+2 results - 1 file
+
+src/config/keys.js:
+  1  export default {
+  2:   TOKEN_KEY: '@MyApp:token',
+  3:   USER_KEY: '@MyApp:user',
+  4  };
