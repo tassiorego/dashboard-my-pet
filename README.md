@@ -15,7 +15,6 @@ Este projeto (em andamento) será um painel para gerenciar atividades do MyPET (
 ## 💻 Tecnologias <a name = "technology"></a>
 
 - [React](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 - [Redux](https://redux.js.org/)
 - [Redux Saga](https://redux-saga.js.org/)
 
